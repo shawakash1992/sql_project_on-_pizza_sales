@@ -1,5 +1,5 @@
 # Project : Pizza Sales Analysis
-![img1](https://github.com/shawakash1992/powerbi_project_on_blinkit_dataset/blob/main/photo%20of%20blinkit.jpg)
+![img1](https://github.com/shawakash1992/sql_project_on-_pizza_sales/blob/main/pizza.jpg)
 
 
 ## Problem Statement
