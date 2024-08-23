@@ -35,4 +35,4 @@ output: (https://github.com/shawakash1992/sql_project_on-_pizza_sales/blob/main/
 
        2. Average Order Value:
 SELECT SUM(total_price) / COUNT(DISTINCT order_id) AS avg_order_value FROM pizza_sales;
- output:
+ output: https://github.com/shawakash1992/sql_project_on-_pizza_sales/blob/main/o2.png
