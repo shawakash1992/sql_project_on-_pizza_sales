@@ -26,3 +26,4 @@ We would like to visualize various aspects of our pizza sales data to gain insig
 Utilized MySQL for data extraction and calculation of key metrics such as Total Revenue, Average Order Value, Total Pizzas Sold, Total Orders, and Average Pizzas Per Order.
 
 ## DATA IMPORT
+![img1](https://github.com/shawakash1992/sql_project_on-_pizza_sales/blob/main/pizza.jpg)
