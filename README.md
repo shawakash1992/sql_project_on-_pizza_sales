@@ -23,3 +23,6 @@ We would like to visualize various aspects of our pizza sales data to gain insig
 7. Bottom 5 Best Sellers by Revenue, Total Quantity and Total Orders: Create a bar chart showcasing the bottom 5 worst-selling pizzas based on the Revenue, Total Quantity, Total Orders. This chart will enable us to identify underperforming or less popular pizza options
 
 ## Data Analysis using MySQL
+Utilized MySQL for data extraction and calculation of key metrics such as Total Revenue, Average Order Value, Total Pizzas Sold, Total Orders, and Average Pizzas Per Order.
+
+## DATA IMPORT
