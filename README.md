@@ -28,7 +28,8 @@ Utilized MySQL for data extraction and calculation of key metrics such as Total 
 ## DATA IMPORT
 ![img1](https://github.com/shawakash1992/sql_project_on-_pizza_sales/blob/main/sql%20all.png)
 A.	KPI’s
-1.	Total Revenue: 
+	  
+    1. Total Revenue: 
 SELECT SUM(total_price) AS total_revenue FROM pizza_sales;
 
 output: (https://github.com/shawakash1992/sql_project_on-_pizza_sales/blob/main/o1.png)
